@@ -17,6 +17,7 @@ with open("file.txt") as file:
 
 
 # DataFrame (is 2 dimentional Object)
+# Series is One Dimentional array
 # workbook (class in openexcel) is excel file itself
 # Data Wrangling vs Data Cleaning
 '''
@@ -28,4 +29,27 @@ with open("file.txt") as file:
         - 
 '''
 
+
+# Contact in Pandas
+'''
+    Concat two dataframes (df1, df2)
+'''
+
+
+# Data Preprocessing
+'''
+    This Steps for Data Enegenring Role, in this step we DO:
+        --> Data Transformation
+        --> Data Normalisation
+        --> Data Cleaning 
+'''
+
+# Index, Axias in Pandas
+'''
+    Index: each dataframe has own index that identify each row.
+    Axis: 
+''' 
+
+#  
  
+
