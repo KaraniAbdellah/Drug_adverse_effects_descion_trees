@@ -1,0 +1,40 @@
+[
+  {
+    "companynumb": "JACAN16471",
+    "fulfillexpeditecriteria": "1",
+    "patient": {
+      "drug": [
+        {
+          "drugadministrationroute": "041",
+          "drugauthorizationnumb": "019813",
+          "drugcharacterization": "1",
+          "drugindication": "DRUG ABUSE",
+          "medicinalproduct": "DURAGESIC-100"
+        }
+      ],
+      "patientdeath": {
+        "patientdeathdate": "None",
+        "patientdeathdateformat": "None"
+      },
+      "patientonsetage": "26",
+      "patientonsetageunit": "801",
+      "patientsex": "1",
+      "reaction": [
+        { "reactionmeddrapt": "DRUG ADMINISTRATION ERROR" },
+        { "reactionmeddrapt": "OVERDOSE" }
+      ]
+    },
+    "primarysource": { "qualification": "3", "reportercountry": "CANADA" },
+    "receiptdate": "20080625",
+    "receiptdateformat": "102",
+    "receivedate": "20080707",
+    "receivedateformat": "102",
+    "receiver": "None",
+    "safetyreportid": "5801206-7",
+    "sender": { "senderorganization": "FDA-Public Use" },
+    "serious": "1",
+    "seriousnessdeath": "1",
+    "transmissiondate": "20090109",
+    "transmissiondateformat": "102"
+  }
+]
