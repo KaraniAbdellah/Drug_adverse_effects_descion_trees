@@ -1,4 +1,0 @@
-// SOURCE PROJECT: https://medium.com/thedeephub/data-science-project-build-a-decision-tree-model-with-healthcare-data-fe93d2d6c70c
-
-
-
